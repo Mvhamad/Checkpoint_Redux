@@ -1,0 +1,23 @@
+.Task {
+    display: flex;
+    align-items: center;
+}
+
+h3 {
+    margin-right: 2rem;
+}
+
+button {
+    height:2rem;
+    cursor: pointer;
+    border-radius: 1em;
+}
+
+button:hover {
+    background-color: aliceblue;
+    color: #000;
+}
+svg:hover {
+    color: red;
+    cursor: pointer;
+}
